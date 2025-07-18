@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hola, soy Gastón Gómez, desarrollador especializado en el area frontend.
+
+Tengo 27 años, soy desarrollador frontend pero tambien me gusta aprender sobre game development.
+
+Skills
+
+- Javascript, HTML, CSS, React, Tailwindcss, Python.
+
+
+- Actualmente Desempleado.
+- Estoy estudiando Nodejs, Express y MongoDB
 
 <!--
 **Morfeo1997/Morfeo1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
