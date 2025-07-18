@@ -2,7 +2,7 @@
 
 Tengo 27 años, soy desarrollador frontend pero tambien me gusta aprender sobre game development.
 
-Skills
+## Skills
 
 - Javascript, HTML, CSS, React, Tailwindcss, Python.
 
